@@ -10,6 +10,11 @@
 <body>
     <h1> Hello World </h1>
     <p>Do kyungsoo adalah main vocalis dari EXO. dia sekarang sedang menjalani keewajibannya sebagai warga negara korea dengan Wajib Militer dan akan segera selesai wajib militernya pada tanggal 25 Januari 2021. </p>
+
+    <ol>
+        <li> list 1 </li>
+        <li> list 2 </li>
+    </ol>
 </body>
 
 </html>
